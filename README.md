@@ -12,7 +12,11 @@ Steps to run:
    This can be directly done by command 'npm install' in the terminal.
 4. Start the application by command 'node app.js'
 5. There are four operations provided in this application. These can be used by following steps:
+   
    i.) Add: To add, just pass 'add' as argument along with title and body. For ex. 'note app.js add -t="Title" -b="Body"'
+   
    ii.) Remove: To remove, pass 'remove' as argument along with title. For ex. 'note app.js remove -t="Title"'
+   
    iii.) Read: To read, pass 'read' as argument along with title. For ex. 'note app.js read -t="Title"'
+   
    iv.) List: To list, pass 'list' as argument. For ex. 'note app.js list'
